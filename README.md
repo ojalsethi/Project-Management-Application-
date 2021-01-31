@@ -1,0 +1,2 @@
+A Project Management Application built using Angular 7.
+It will help you and your team easily track project plans, tasks, and progress. The tasks are placed on cards and team members who are assigned to that task are added to the card. The card moves through the workflow as progress is made on completing the task.
